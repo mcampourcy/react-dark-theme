@@ -1,8 +1,8 @@
 This is an exemple of a dark theme in a React app.
 
-Demo here :
+Demo here : https://mcampourcy.github.io/react-dark-theme/
 
-Icons by [Feather Icons]('https://feathericons.com/)
+Icons by ![Feather Icons]('https://feathericons.com/)
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
