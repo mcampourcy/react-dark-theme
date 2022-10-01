@@ -8,7 +8,7 @@ main[data-theme="dark"] {
   --color: #fff;
 }
 
-html, body, #root {
+html, body, #app {
   height: 100%;
   margin: 0;
 }
