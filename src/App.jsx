@@ -9,7 +9,8 @@ function App() {
 
   return (
     <main data-theme={theme}>
-      <button onClick={toggleTheme} name="switch" type="button">
+      <h1>Change theme</h1>
+      <button onClick={toggleTheme} name="switch" type="button" aria-label="Click here to switch theme">
         {theme === 'light' ? <Sun /> : <Moon />}
       </button>
     </main>
